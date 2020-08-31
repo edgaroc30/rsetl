@@ -1,0 +1,12 @@
+# Ignore jupyter notebooks
+*.ipynb
+
+# Ignore logs
+*.log
+
+# Ignore vscode config
+.vscode
+
+# Ignore pycache
+__pycache__/
+*.pyc
